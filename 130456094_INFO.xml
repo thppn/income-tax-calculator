@@ -1,0 +1,27 @@
+<Name> Thanos Papanastasiou </Name>
+<AFM> 130456094 </AFM>
+<Status> Single </Status>
+<Income> 40000.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID> 
+<Date> 15/12/2017 </Date>
+<Kind> Basic </Kind>
+<Amount> 999.0 </Amount>
+<Company> Artemis </Company>
+<Country> Greece </Country>
+<City> Patras </City>
+<Street> Fragkopoulou </Street>
+<Number> 15 </Number>
+
+<ReceiptID> 3 </ReceiptID> 
+<Date> 5/6/2014 </Date>
+<Kind> Basic </Kind>
+<Amount> 4000.0 </Amount>
+<Company> IKEA </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Averof </Street>
+<Number> 100 </Number>
+
